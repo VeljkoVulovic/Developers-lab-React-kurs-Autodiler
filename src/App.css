@@ -1,0 +1,61 @@
+h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.navbar-brand {
+  width: 80px;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  transition: all 0.4s;
+}
+
+nav.navbar {
+  box-shadow: 0 3px 6px 0 rgb(0 0 0 / 16%);
+}
+
+.navbar-nav li {
+  margin-left: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-nav li a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.navbar-nav li a:hover {
+  color: blue;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: 999;
+  width: 100%;
+  color: black;
+  text-align: center;
+  box-shadow: 0 -3px 6px 0 rgb(0 0 0 / 16%);
+}
+
+.footer p {
+  margin-top: 1rem;
+}
+
+.padding-top {
+  padding-top: 4.5rem;
+}
+
+.padding-bottom {
+  padding-bottom: 6rem;
+}
+
+footer {
+  margin-top: 90px;
+}

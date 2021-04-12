@@ -1,0 +1,23 @@
+.shadowDiv {
+  margin-top: 30px;
+  padding: 25px;
+  box-shadow: 0 0 6px 0 rgb(0 0 0 / 16%);
+  border-radius: 25px;
+  font-size: large;
+}
+
+#formDiv ::placeholder {
+  text-align: center;
+}
+
+#formDiv textarea {
+  resize: none;
+}
+
+.smallTextDiv {
+  text-align: center;
+}
+
+#contactDiv {
+  background-image: url("https://www.alliancecoatingsystems.com/wp-content/uploads/2016/05/contact-background.jpg");
+}
